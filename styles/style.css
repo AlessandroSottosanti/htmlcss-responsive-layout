@@ -133,7 +133,12 @@ iframe {
 }
 
 .text {
+    display: flex;
     margin: 0.5rem 0;
+}
+
+.text p {
+    line-height: 1.8;
 }
 
 .button .fa-facebook {
