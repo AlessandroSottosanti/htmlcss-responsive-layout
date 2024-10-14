@@ -32,6 +32,13 @@ li {
     padding: 0.5rem 0;
 }
 
+iframe {
+    width: 100%; 
+    height: 15rem;
+    border: none;
+}
+
+
 .title {
     font-family:  'Nerko One', cursive;
     color: #F3A23E;
