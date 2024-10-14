@@ -90,3 +90,23 @@ li {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
 
 }
+
+.button .fa-facebook {
+    color: #4267B2; /* Colore Facebook */
+}
+
+.button .fa-twitter {
+    color: #1DA1F2; /* Colore Twitter */
+}
+
+.button .fa-instagram {
+    color: #C13584; /* Colore Instagram */
+}
+
+.button .fa-pinterest {
+    color: #E60023; /* Colore Pinterest */
+}
+
+.button .fa-youtube {
+    color: #FF0000; /* Colore YouTube */
+}
